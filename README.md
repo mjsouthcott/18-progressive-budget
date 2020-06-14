@@ -1,4 +1,4 @@
-# Fitness Tracker
+# Progressive Budget
 
 ![GitHub followers](https://img.shields.io/github/followers/mjsouthcott?label=Follow&style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/mjsouthcott/18-progressive-budget)
